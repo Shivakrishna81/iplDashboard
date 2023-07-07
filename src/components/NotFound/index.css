@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.nfc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pnf {
+  font-size: 24px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}

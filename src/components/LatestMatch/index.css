@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.latestMatch {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: black;
+  border-width: 0px;
+  border-radius: 7px;
+}
+.topContainer {
+  display: flex;
+  align-items: center;
+}
+.topimg {
+  height: 100px;
+  width: 100px;
+}
+hr {
+  width: 2px;
+  color: #ffffff33;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 100%;
+}
+thead {
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.tpara {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 500;
+}

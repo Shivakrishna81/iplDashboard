@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.card {
+  border-radius: 6px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff33;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ffffff;
+  margin: 50px;
+  max-height: 100px;
+  max-width: 240px;
+  cursor: pointer;
+  outline: none;
+}
+.card-img {
+  height: 60px;
+  width: 60px;
+}
+.teamName {
+  font-size: 18px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  margin-left: 5px;
+}

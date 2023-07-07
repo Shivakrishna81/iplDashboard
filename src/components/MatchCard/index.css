@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.matchItem {
+  border-radius: 7px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  min-width: 180px;
+  margin: 15px;
+}
+.matchimg {
+  height: 100px;
+  width: 100px;
+}
+.team {
+  font-size: 25px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+.team2 {
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}

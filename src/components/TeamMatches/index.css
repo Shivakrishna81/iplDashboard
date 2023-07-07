@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.teamMatch {
+  padding: 20px;
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.teambanner {
+  height: 200px;
+  width: 100%;
+}
+.tul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
